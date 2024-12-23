@@ -11,8 +11,8 @@ import os #directory shesakmnelad
 import spotipy#spotify api  gamosayeneblad
 from spotipy.oauth2 import SpotifyOAuth#spotify authenticaciisatvis
 
-
-CLIENT_ID = ""
+#ameebisatvis ixiilet readme...
+CLIENT_ID = "" 
 CLIENT_SECRET = ""
 REDIRECT_URL = "http://localhost:8888/callback"
 SCOPE = "user-library-read user-read-playback-state user-modify-playback-state"
